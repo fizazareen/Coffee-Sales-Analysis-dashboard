@@ -349,7 +349,7 @@ Potential future enhancements for this project include:
 
 ## 👩‍💻 Author
 
-**Your Name**
+**FIZA ZAREEN**
 
 Aspiring Business Analyst | Data Analyst
 
@@ -390,6 +390,4 @@ This project represents my hands-on practice in applying Excel, data analysis, v
 More data analytics and business intelligence projects will be added to my portfolio as I continue developing my analytical skills.
 
 ```
-
-Available next action: :contentReference[oaicite:0]{index=0}
 ```
